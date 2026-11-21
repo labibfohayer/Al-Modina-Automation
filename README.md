@@ -1,5 +1,7 @@
 # Al-Modina Automation - AI-Powered Meta and Telegram Operations Engine
 
+[![Official Platform Page](https://img.shields.io/badge/Official_Page-Facebook_Institute-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/AlMadinaModelMadrasaAndResearchInstitute)
+
 An intelligent multi-platform automation system engineered for educational institutions. Powered by Node.js, Express, Google Gemini Large Language Models (`@google/generative-ai`), Meta Graph API Webhooks, and the Telegram Bot API.
 
 ---
@@ -133,7 +135,7 @@ TELEGRAM_ADMIN_CHAT_ID=your_telegram_chat_id_here
 ```bash
 npm start
 ```
-The server will start on port 3000. You can test the health endpoint at `http://localhost:3000/`.
+The server will start on port 3000 (health check: `http://localhost:3000/`). Official institute integration is live at **[facebook.com/AlMadinaModelMadrasaAndResearchInstitute](https://www.facebook.com/AlMadinaModelMadrasaAndResearchInstitute)**.
 
 ---
 
